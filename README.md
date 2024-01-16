@@ -1,5 +1,5 @@
 #Visual Prompt Based Personalized Federated Learning(TMLR 2024)
-This repository contains the official code for our proposed method,This paper has been accepted at TMLR 2021.
+This repository contains the official code for our proposed method,This paper has been accepted at TMLR 2024.
 
 ![Local Image](./pipeline.png)
 
