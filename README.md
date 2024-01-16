@@ -1,7 +1,7 @@
 #Visual Prompt Based Personalized Federated Learning(TMLR 2024)
 This repository contains the official code for our proposed method,This paper has been accepted at TMLR 2021.
 
-![Local Image](.\pipeline.png)
+![Local Image](./pipeline.png)
 
 ## Environments
 With the installed [conda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh), we can run this platform in a conda virtual environment called *fl_torch*. Note: due to the code updates, some modules are required to install based on the given `*.yaml`. 
